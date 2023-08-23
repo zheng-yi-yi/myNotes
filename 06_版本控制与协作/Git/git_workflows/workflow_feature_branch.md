@@ -154,7 +154,5 @@ git push
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/zheng-yi-yi/myNotes/blob/main/06_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E5%8D%8F%E4%BD%9C/Git/git_workflows/workflow_centralized.md">« 集中式工作流</a>
-    <a href="https://github.com/zheng-yi-yi/myNotes/blob/main/06_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E5%8D%8F%E4%BD%9C/Git/git_workflows/workflow_gitflow.md">Gitflow 工作流 »</a>
-</div>
+
+[« 集中式工作流](workflow_centralized.md)　　　　[Gitflow 工作流 »](workflow_gitflow.md)

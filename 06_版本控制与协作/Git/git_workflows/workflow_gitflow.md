@@ -128,7 +128,4 @@ Gitflow工作流通过使用两个主要分支，即`master`和`develop`，来�
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/zheng-yi-yi/myNotes/blob/main/06_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E5%8D%8F%E4%BD%9C/Git/git_workflows/workflow_feature_branch.md">« 功能分支工作流</a>
-    <a href="https://github.com/zheng-yi-yi/myNotes/blob/main/06_%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E4%B8%8E%E5%8D%8F%E4%BD%9C/Git/git_workflows/workflow_forking.md">Forking 工作流 »</a>
-</div>
+[« 功能分支工作流](workflow_feature_branch.md)　　　　[Forking 工作流 »](workflow_forking.md)
